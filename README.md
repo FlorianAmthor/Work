@@ -2,7 +2,7 @@
 All my code i have written so far.
 
   - <b>Twitter Clone client</b>
-    - student project in bachelor at OTh Regensburg
+    - student project in bachelor at OTH Regensburg
     - https://github.com/FlorianAmthor/twitter_clone_client
   - <b>Deepest Dungeon</b>
     - a cooperative 4 player ability shooter
